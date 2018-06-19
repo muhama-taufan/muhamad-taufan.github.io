@@ -1,0 +1,106 @@
+html, body {
+/*font-size: 40px;*/
+margin:0; /* remove default margin */
+padding:0; /* remove default padding */
+width:100%; /* take full browser width */
+height:100%; /* take full browser height*/
+}
+
+
+
+
+@media (min-width:1px) and (max-width :768px)
+{
+	.g-vertical
+	{
+		width:0;
+		height:0;
+
+	}
+	
+	.g-content-title
+	{
+		color:rgb(100,100,100);
+		font-size:1.5em;
+		text-align:center;
+		
+		
+	}
+}
+
+
+@media (min-width :769px)
+
+{
+		
+.g-vertical
+	{
+		width:0;
+		height:200px;
+		border : .7px solid; 
+		border-color:rgb(238,238,238);
+		float:right;
+		margin-top:100px;
+	
+	}
+
+.g-content-title
+	{
+		color:rgb(100,100,100);
+		font-size:2em;
+		text-align:center;
+		
+		
+	}	
+	
+	}
+
+	
+
+	
+.g-canvas
+	{
+		padding-top:100px;
+		width:50%;
+		height:auto;
+
+	}	
+	
+	.center-block
+		{
+			margin:0 auto;
+			float:none;
+			display:table;
+			color:rgb(101,101,101);
+			
+		}
+
+	
+.g-description
+	{
+		font-size:1em;
+		padding-top:10px;
+		padding-bottom:10px;
+		color:rgb(128,128,128);
+		
+	}	
+	
+.g-price
+	{
+		font-size:1.2em;
+		padding-top:10px;
+		padding-bottom:10px;
+		
+		
+	}		
+	
+
+.g-title
+	{
+		font-size:2em;
+		padding-top:10px;
+		padding-bottom:10px;
+		color:rgb(128,128,128);
+			
+	}
+	

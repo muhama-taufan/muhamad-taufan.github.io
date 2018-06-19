@@ -1,0 +1,85 @@
+#content-4-home
+	{
+		padding-top:0;
+		padding-bottom:10%;
+		width:100%;
+		height:auto;
+		background-color:rgb(251,250,248);
+		
+	}
+	
+#content-4-home:after
+	{
+		clear:both;
+		content : " ";
+		display:block;
+		
+	}
+
+
+@media (min-width:1px) and (max-width :768px)
+{
+		
+.decription-content-4-home
+	{
+		
+		color:rgb(156,181,137);
+		text-align:center;
+		width:100%;
+		height:auto;
+		font-size:2.5em;
+		padding-top:120px;
+		text-decoration:underline;
+		
+		
+	}
+	
+.testimoni-content-4-home
+	{
+		padding-top:30px;
+		text-align:center;
+		font-size:1em;
+		font-style:italic;
+		color:rgb(156,181,137);
+		
+	}		
+
+
+
+}
+
+
+@media (min-width :769px)
+
+{	
+	
+.decription-content-4-home
+	{
+		color:rgb(156,181,137);
+		text-align:right;
+		width:50%;
+		height:auto;
+		font-size:2.3em;
+		padding-top:110px;
+		float:right;
+		margin-bottom:30px;
+		
+		
+	}
+	
+.testimoni-content-4-home
+	{
+		padding-top:120px;
+		text-align:center;
+		font-size:2em;
+		font-style:italic;
+		color:rgb(156,181,137);	
+	}
+	
+	}
+.content-4-vertical-home	
+{
+	float:left;	
+	height:306px;
+}
+

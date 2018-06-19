@@ -1,0 +1,281 @@
+#header-home
+	{
+		width:auto;
+		height:600px;
+
+		
+	}
+#header-home:after	
+	{
+		display : block;
+		content:" ";
+		clear : both;
+	}	
+
+	
+		
+
+@media (min-width :1025px)
+
+{
+	.background-header-home-canvas
+{
+	width:100%;
+	height:600px;
+	
+}
+.background-header-home
+	{
+		  background: url(../image/header-home-1.jpg) no-repeat center center fixed ; 
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+		  width:100%;
+		  height:100%;
+	}	
+	
+	.header-order
+		{
+			padding:20px;
+			border:2px solid rgb(148,172,128);
+			border-radius:50px;
+			color:rgb(148,172,128);
+			position:absolute;
+			top:470px;
+			font-size:30px;
+			position:absolute;
+			left:42%;
+		}
+		
+	.header-chat
+	{
+		width:auto;
+		height:auto;
+		background-color: rgb(193,162,72);
+		right:0;
+		position:absolute;
+		top: 620px;
+		
+		
+	}
+	
+	
+ .header-order:hover 
+	{
+		text-decoration:none !important;
+		color:rgb(148,172,128);
+		font-weight:bold;
+		border:5px solid rgb(148,172,128);
+
+	}	
+	
+
+
+	
+}
+
+
+@media (min-width:768px) and (max-width :1024px)
+{
+		.background-header-home-canvas
+{
+	width:100%;
+	height:620px
+	
+}
+.background-header-home
+	{
+		  background: url(../image/header-home-1.jpg) no-repeat center center ; 
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+		  width:100%;
+		  height:100%;
+	}	
+	
+	.header-order
+		{
+			padding:20px;
+			border:2px solid rgb(148,172,128);
+			border-radius:50px;
+			color:rgb(148,172,128);
+			position:absolute;
+			top:470px;
+			font-size:30px;
+			position:absolute;
+			left:35%;
+		}
+		
+		.header-chat
+	{
+		width:auto;
+		height:auto;
+		background-color: rgb(193,162,72);
+		right:0;
+		position:absolute;
+		top: 640px;
+		
+		
+	}	
+	
+ .header-order:hover 
+	{
+		text-decoration:none !important;
+		color:rgb(148,172,128);
+		font-weight:bold;
+		border:5px solid rgb(148,172,128);
+
+	}	
+
+
+	
+	
+}	
+
+
+@media (min-width:411px) and (max-width :767px)
+{
+			.background-header-home-canvas
+{
+	width:100%;
+	height:600px
+	
+}
+.background-header-home
+	{
+		  background: url(../image/header-home-1.jpg) no-repeat center center ; 
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+		  width:100%;
+		  height:100%;
+	}	
+	
+	.header-order
+		{
+			padding:20px;
+			border:2px solid rgb(148,172,128);
+			border-radius:50px;
+			color:rgb(148,172,128);
+			position:absolute;
+			top:470px;
+			font-size:20px;
+			position:absolute;
+			left:30%;
+		}
+	
+	
+		.header-chat
+		{
+		width:auto;
+		height:auto;
+		background-color: rgb(193,162,72);
+		right:0;
+		position:absolute;
+		top: 640px;
+		
+		
+	}		
+	
+ .header-order:hover 
+	{
+		text-decoration:none !important;
+		color:rgb(148,172,128);
+		font-weight:bold;
+		border:5px solid rgb(148,172,128);
+
+	}	
+	
+
+	
+}
+
+
+
+
+
+
+@media (min-width:1px) and (max-width :410px)
+{
+				.background-header-home-canvas
+{
+	width:100%;
+	height:600px;
+	
+}
+.background-header-home
+	{
+		  background: url(../image/header-home-1.jpg) no-repeat center center ; 
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+		  width:100%;
+		  height:100%;
+	}	
+	
+	.header-order
+		{
+			padding:20px;
+			border:2px solid rgb(148,172,128);
+			border-radius:50px;
+			color:rgb(148,172,128);
+			position:absolute;
+			top:470px;
+			font-size:15px;
+			position:absolute;
+			left:30%;
+		}
+		.header-chat
+		{
+		width:auto;
+		height:auto;
+		background-color: rgb(193,162,72);
+		right:0;
+		position:absolute;
+		top: 640px;
+		
+		
+	}		
+	
+ .header-order:hover 
+	{
+		text-decoration:none !important;
+		color:rgb(148,172,128);
+		font-weight:bold;
+		border:5px solid rgb(148,172,128);
+
+	}	
+
+
+	
+}
+
+@media (min-width:1px) and (max-width :359px)
+{
+		.header-logo-atas
+	{
+		width:44%;
+		height:130px;
+		position:absolute;
+		background-color:rgb(245,237,234);
+		border-radius:50%;
+		left:30%;
+		margin-top:-54%;
+		
+		
+		
+	}	
+	
+	.img-responsive-logo-atas
+	{
+		margin-top:67%;
+		margin-left:24%;
+		width:53%;
+	}	
+	
+	
+}

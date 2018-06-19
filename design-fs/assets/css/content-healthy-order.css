@@ -1,0 +1,102 @@
+ #content-healthy-order
+ {
+	 width:100%;
+	 height:auto;
+	
+	 
+ }
+ 
+ 
+
+
+  .title-healthy
+  {	
+		font-size:2em;
+
+	 display:inline-block;
+	 width:auto;
+	 height:auto;
+	 background-color:transparent;
+
+	 }
+ 
+
+@media(min-width:1px) and (max-width:700px)
+{
+	
+	  .title-healthy
+  {	
+		font-size:1.5em;
+
+	 display:inline-block;
+	 width:auto;
+	 height:auto;
+	 background-color:transparent;
+
+	 }
+}
+ 
+ 
+ @media(min-width:701px)
+ {
+	 	  .title-healthy
+  {	
+		font-size:3em;
+
+	 display:inline-block;
+	 width:auto;
+	 height:auto;
+	 background-color:transparent;
+
+	 }
+	 
+ }
+ 
+.gournet-img
+{
+	display:inline-block;
+
+}	
+ 
+
+
+
+
+.healthy > a
+{
+	border:2px solid rgb(51,105,255);
+	
+	
+}
+
+.select-healthy
+{
+	background: rgb(51,105,255);
+}
+
+.unselect-healthy
+{
+	background: transparent;
+}
+
+ 
+ .icon-healthy
+ {	
+	width:40px;
+	 top:40%;
+	 left:46%;
+	 transform:(-50%,-50%);
+	 position:absolute;
+	 display:flex;
+ }
+ 
+ 
+
+ 	
+.canvas-title-logo-order-helthy
+{
+		width:auto;
+		height:auto;
+padding-top:10%;
+	
+}	

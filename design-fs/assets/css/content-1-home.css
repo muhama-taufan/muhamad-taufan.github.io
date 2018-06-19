@@ -1,0 +1,31 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+
+html, body {
+/*font-size: 40px;*/
+margin:0; /* remove default margin */
+padding:0; /* remove default padding */
+width:100%; /* take full browser width */
+height:100%; /* take full browser height*/
+}
+
+
+#content-1-home
+	{
+		padding-top:10%;
+		padding-bottom:10%;
+		width:100%;
+		height:auto;
+		
+	}
+	
+#content-1-home:after
+	{
+		clear:both;
+		content : " ";
+		display:block;
+		
+	}
